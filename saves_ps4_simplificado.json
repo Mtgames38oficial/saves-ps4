@@ -1,660 +1,909 @@
 {
-  "timestamp": "2026-07-13T20:57:49.623578",
-  "total": 109,
+  "timestamp": "2026-07-13T22:04:27.852588",
+  "total": 129,
   "saves": [
     {
-      "jogo": " Assasins Creed Black Flag SaveGame",
+      "jogo": "PS4 Assasins Creed Black Flag SaveGame",
       "cusa_id": "CUSA00010",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa00010.rar"
+      "link_download": "https://www.savegameworld.com/download/cusa00010.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/Assassins-Creed-Black-Flag-ps4.jpg"
     },
     {
-      "jogo": " Assassin’s Creed 4 SaveGame",
+      "jogo": "PS4 Assassin’s Creed 4 SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/assassins-creed-4-ps4-100-sync-end-game.zip"
+      "link_download": "https://www.savegameworld.com/download/assassins-creed-4-ps4-100-sync-end-game.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-Assassins-Creed-4-SaveGame.jpg"
     },
     {
-      "jogo": " Assassin’s Creed 4 SaveGame",
+      "jogo": "PS4 Assassin’s Creed 4 SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/assassins-creed-4-ps4-100-sync-end-game_2.zip"
+      "link_download": "https://www.savegameworld.com/download/assassins-creed-4-ps4-100-sync-end-game_2.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-Assassins-Creed-4-SaveGame-1.jpg"
     },
     {
-      "jogo": " Arcania SaveGame",
+      "jogo": "PS4 Arcania SaveGame",
       "cusa_id": "CUSA01702",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/tigermark182-arcania-save-set-ps4-cusa01702-55-eu.zip"
+      "link_download": "https://www.savegameworld.com/download/tigermark182-arcania-save-set-ps4-cusa01702-55-eu.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Arcania-SaveGame.jpg"
     },
     {
-      "jogo": " Assassin’s Creed Rogue: Remastered SaveGame",
+      "jogo": "PS4 Assassin’s Creed Rogue: Remastered SaveGame",
       "cusa_id": "CUSA10123",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/assassins-creed-rogue-remastered-cusa10123.rar"
+      "link_download": "https://www.savegameworld.com/download/assassins-creed-rogue-remastered-cusa10123.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Assassins-Creed-Rogue-Remastered-SaveGame.jpg"
     },
     {
-      "jogo": " Adventure pop SaveGame",
+      "jogo": "PS4 Adventure pop SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/advurture-pop.rar"
+      "link_download": "https://www.savegameworld.com/download/advurture-pop.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Adventure-pop-SaveGame.jpg"
     },
     {
-      "jogo": " Air Conflicts: Vietnam SaveGame",
+      "jogo": "PS4 Air Conflicts: Vietnam SaveGame",
       "cusa_id": "CUSA01003",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa01003.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa01003.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Air-Conflicts-Vietnam-SaveGame.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " Battlefield 4 SaveGame",
+      "jogo": "PS4 Battlefield 4 SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/battlefield4-100-end-game-rebuged.rar"
+      "link_download": "https://www.savegameworld.com/download/battlefield4-100-end-game-rebuged.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-Battlefield-4-SaveGame.jpg"
     },
     {
-      "jogo": " Battlefield 4 SaveGame",
+      "jogo": "PS4 Battlefield 4 SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/battlefield4-100-end-game-rebuged_2.rar"
+      "link_download": "https://www.savegameworld.com/download/battlefield4-100-end-game-rebuged_2.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-Battlefield-4-SaveGame-1.jpg"
     },
     {
-      "jogo": " Borderlands 2 SaveGame",
+      "jogo": "PS4 Borderlands 2 SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/Unzip_5.rar"
+      "link_download": "https://www.savegameworld.com/download/Unzip_5.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/08/PS4-Borderlands-2-SaveGame.jpg"
     },
     {
-      "jogo": " Bleep Bloop SaveGame",
+      "jogo": "PS4 Bleep Bloop SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/bleep-bloop_2.zip"
+      "link_download": "https://www.savegameworld.com/download/bleep-bloop_2.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Bleep-Bloop-SaveGame.jpg"
     },
     {
-      "jogo": " Bloodstained: Ritual of the Night SaveGame",
+      "jogo": "PS4 Bloodstained: Ritual of the Night SaveGame",
       "cusa_id": "CUSA07953",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa07953.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa07953.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Bloodstained-Ritual-of-the-Night-SaveGame.jpg"
     },
     {
-      "jogo": " Bloodstained Ritual Of The Night SaveGame",
+      "jogo": "PS4 Bloodstained Ritual Of The Night SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/bloodstained-100-completed.rar"
+      "link_download": "https://www.savegameworld.com/download/bloodstained-100-completed.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Bloodstained-Ritual-Of-The-Night-SaveGame.jpg"
     },
     {
-      "jogo": " Bully SaveGame",
+      "jogo": "PS4 Bully SaveGame",
       "cusa_id": "CUSA03507",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa03507.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa03507.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Bully-SaveGame.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " Doki Doki Savegame",
+      "jogo": "PS4 Contrast SaveGame",
+      "cusa_id": "CUSA00011",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/cusa00011.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-Contrast-SaveGame.png"
+    },
+    {
+      "jogo": "PS4 Color Guardians SaveGame",
+      "cusa_id": "CUSA02179",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/colorguardians_cusa02179.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Color-Guardians-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 Crash Team Racing: Nitro Fueled SaveGame",
+      "cusa_id": "CUSA14876",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/cusa14876-ctr-nf-100.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Crash-Team-Racing-Nitro-Fueled-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/dokidokips4endgamesaves.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " DC Universe Online SaveGame",
+      "jogo": "PS4 DC Universe Online SaveGame",
       "cusa_id": "CUSA00012",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa00012.rar"
+      "link_download": "https://www.savegameworld.com/download/cusa00012.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-DC-Universe-Online-SaveGame.png"
     },
     {
-      "jogo": " Don’t Starve: Console Edition SaveGame",
+      "jogo": "PS4 Don’t Starve: Console Edition SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/dont-starve-ps4_2.rar"
+      "link_download": "https://www.savegameworld.com/download/dont-starve-ps4_2.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-Dont-Starve-Console-Edition-SaveGame.jpg"
     },
     {
-      "jogo": " Doki-Doki Universe SaveGame",
+      "jogo": "PS4 Doki-Doki Universe SaveGame",
       "cusa_id": "CUSA00046",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/dokidoki-universe-eu-ps4-cusa00046.rar"
+      "link_download": "https://www.savegameworld.com/download/dokidoki-universe-eu-ps4-cusa00046.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-Doki-Doki-Universe-SaveGame.jpg"
     },
     {
-      "jogo": " Dont starve game save",
+      "jogo": "PS4 Dark Souls 3 Starter SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/dont-starve-ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/kyoshiro-dark-souls-3-god-save.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2017/09/PS4-Dark-Souls-3-Starter-SaveGame.jpg"
     },
     {
-      "jogo": " Dark Souls 3 Starter SaveGame",
-      "cusa_id": "N/A",
-      "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/kyoshiro-dark-souls-3-god-save.rar"
-    },
-    {
-      "jogo": " Divinity Original Sin 2 Definitive Edition Trophy Technical Eggstacy SaveGame",
+      "jogo": "PS4 Divinity Original Sin 2 Definitive Edition Trophy Technical Eggstacy SaveGame",
       "cusa_id": "CUSA11898",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa11898.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa11898.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2018/10/PS4-Divinity-Original-Sin-2-Definitive-Edition-Trophy-Technical-Eggstacy-SaveGame.jpg"
     },
     {
-      "jogo": " Digimon Next Order some trophies SaveGme",
-      "cusa_id": "N/A",
-      "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/digimon-next-order-1.rar"
-    },
-    {
-      "jogo": " Dragon Age Inquisition: Herald and Inquisitor Trophy SaveGame",
+      "jogo": "PS4 Dragon Age Inquisition: Herald and Inquisitor Trophy SaveGame",
       "cusa_id": "CUSA00220",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa00220.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa00220.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2018/10/PS4-Dragon-Age-Inquisition-Herald-and-Inquisitor-Trophy-SaveGame.png"
     },
     {
-      "jogo": " Days Gone SaveGame",
+      "jogo": "PS4 Days Gone SaveGame",
       "cusa_id": "CUSA09176",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa09176.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa09176.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/11/PS4-Days-Gone-SaveGame.jpg"
     },
     {
-      "jogo": " Dragon Ball FighterZ SaveGame",
+      "jogo": "PS4 Dragon Ball FighterZ SaveGame",
       "cusa_id": "CUSA09072",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa09072.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa09072.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/11/PS4-Dragon-Ball-FighterZ-SaveGame.jpg"
     },
     {
-      "jogo": " Dead or Alive 6 SaveGame",
+      "jogo": "PS4 Dead or Alive 6 SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/doa6.rar"
+      "link_download": "https://www.savegameworld.com/download/doa6.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/11/PS4-Dead-or-Alive-6-SaveGame.jpg"
     },
     {
-      "jogo": " Devil May Cry 5 SaveGame",
+      "jogo": "PS4 Devil May Cry 5 SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/dmc5super-power-by-alvlso.zip"
+      "link_download": "https://www.savegameworld.com/download/dmc5super-power-by-alvlso.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/11/PS4-Devil-May-Cry-5-SaveGame.jpg"
     },
     {
-      "jogo": " Darkest Dungeon SaveGame",
+      "jogo": "PS4 Darkest Dungeon SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/dd-saveset.rar"
+      "link_download": "https://www.savegameworld.com/download/dd-saveset.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/11/PS4-Darkest-Dungeon-SaveGame.jpg"
     },
     {
-      "jogo": " Dangerous Driving SaveGame",
+      "jogo": "PS4 Dangerous Driving SaveGame",
       "cusa_id": "CUSA13942",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/dangerousdriving_cusa13942.rar"
+      "link_download": "https://www.savegameworld.com/download/dangerousdriving_cusa13942.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Dangerous-Driving-SaveGame.jpg"
     },
     {
-      "jogo": " Dragon Ball Xenoverse SaveGame",
+      "jogo": "PS4 Dragon Ball Xenoverse SaveGame",
       "cusa_id": "CUSA01186",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa01186-1.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa01186-1.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Dragon-Ball-Xenoverse-SaveGame.jpg"
     },
     {
-      "jogo": " Dying Light The Following SaveGame",
+      "jogo": "PS4 Dying Light The Following SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/dying-light-save-sets.zip"
+      "link_download": "https://www.savegameworld.com/download/dying-light-save-sets.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Dying-Light-The-Following-SaveGame.jpg"
     },
     {
-      "jogo": " Devil May Cry 4 SaveGame",
+      "jogo": "PS4 Devil May Cry 4 SaveGame",
       "cusa_id": "CUSA01708",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa01708.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa01708.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Devil-May-Cry-4-SaveGame.jpg"
     },
     {
-      "jogo": " Disgaea 1 Complete SaveGame",
+      "jogo": "PS4 Disgaea 1 Complete SaveGame",
       "cusa_id": "CUSA13082",
-      "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa13082.zip"
+      "tamanho": "0 B",
+      "link_download": "https://www.savegameworld.com/download/cusa13082.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Disgaea-1-Complete-SaveGame.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " Evil Within SaveGame",
+      "jogo": "PS4 Evil Within SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/evil-within-r2-savegame.rar"
+      "link_download": "https://www.savegameworld.com/download/evil-within-r2-savegame.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-Evil-Within-SaveGame.png"
     },
     {
-      "jogo": " Entwined – Evolved Trophy SaveGame",
+      "jogo": "PS4 Entwined – Evolved Trophy SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/entwined.rar"
+      "link_download": "https://www.savegameworld.com/download/entwined.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-Entwined-Evolved-Trophy-SaveGame.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " FIST OF THE NORTH STAR: LOST PARADISE SaveGame",
+      "jogo": "PS4 FIST OF THE NORTH STAR: LOST PARADISE SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/trader-overachiever.zip"
+      "link_download": "https://www.savegameworld.com/download/trader-overachiever.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2018/10/PS4-FIST-OF-THE-NORTH-STAR-LOST-PARADISE-SaveGame.jpg"
     },
     {
-      "jogo": " FarCry 4 SaveGame",
+      "jogo": "PS4 FarCry 4 SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/farcry-4-platinum-save.zip"
+      "link_download": "https://www.savegameworld.com/download/farcry-4-platinum-save.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/11/PS4-FarCry-4-SaveGame.png"
     },
     {
-      "jogo": " Fallout 4 SaveGame",
+      "jogo": "PS4 Fallout 4 SaveGame",
       "cusa_id": "CUSA02961",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa02961.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa02961.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/11/PS4-Fallout-4-SaveGame.jpg"
     },
     {
-      "jogo": " Fate Extella – The Extra Conqueror SaveGame",
+      "jogo": "PS4 Fate Extella – The Extra Conqueror SaveGame",
       "cusa_id": "CUSA07274",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa07274-7.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa07274-7.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/11/PS4-Fate-Extella-The-Extra-Conqueror-SaveGame.jpg"
     },
     {
-      "jogo": " Far Cry New Dawn SaveGame",
+      "jogo": "PS4 Far Cry New Dawn SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/batedor.rar"
+      "link_download": "https://www.savegameworld.com/download/batedor.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Far-Cry-New-Dawn-SaveGame.jpg"
     },
     {
-      "jogo": " Far Cry 3 SaveGame 100%",
+      "jogo": "PS4 Far Cry 3 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/FC3_Classic_Edition_PS4.zip"
+      "link_download": "https://www.savegameworld.com/download/FC3_Classic_Edition_PS4.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2020/03/PC-Far-Cry-3-SaveGame-100.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " inFAMOUS First Light Platinum SaveGame",
+      "jogo": "PS4 GTA 5 SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/infamous-first-light-plat-save-others.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 Grand Theft Auto 3 SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/gta-iii-99-complete-Us.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2018/08/PS4-Grand-Theft-Auto-3-SaveGame.jpg"
     },
     {
-      "jogo": " Jump force SaveGame",
+      "jogo": "PS4 Guitar Hero Live Strumillionaire Trophy SaveGame",
+      "cusa_id": "CUSA02410",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/cusa02410.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2018/10/PS4-Guitar-Hero-Live-Strumillionaire-Trophy-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 Guns, Gore and Cannoli 2 platinum SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/before-level-70-1.rar"
+      "link_download": "https://www.savegameworld.com/download/guns-gore-and-cannoli-2.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2018/10/PS4-Guns-Gore-and-Cannoli-2-platinum-SaveGame.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
-      "cusa_id": "N/A",
-      "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
-    },
-    {
-      "jogo": " Knack SaveGame",
-      "cusa_id": "CUSA00068",
-      "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa00068.rar"
-    },
-    {
-      "jogo": " Killzone™ Shadow Fall SaveGame",
-      "cusa_id": "CUSA00190",
-      "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa00190.rar"
-    },
-    {
-      "jogo": " Knack Platinum SaveGame",
-      "cusa_id": "N/A",
-      "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/knack-platinum-save.rar"
-    },
-    {
-      "jogo": " Kingdom Hearts Birth By Sleep SaveGame",
+      "jogo": "PS4 GreedFall SaveGame",
       "cusa_id": "CUSA14208",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/love-and-the-sea-cusa14208_2.rar"
+      "link_download": "https://www.savegameworld.com/download/love-and-the-sea-cusa14208.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-GreedFall-SaveGame.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 Grand Theft Auto: San Andreas SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/GTA_SA_PS4.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2020/01/PC-Grand-Theft-Auto-San-Andreas-SaveGame.jpg"
     },
     {
-      "jogo": " LEGO Marvel Superheroes Savegame",
-      "cusa_id": "CUSA00044",
-      "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa00044.zip"
-    },
-    {
-      "jogo": " Lego the Hobbit Savegame",
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/lego-hobbit-platinum.zip"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " LEGO Marvel Superheroes SaveGame",
+      "jogo": "PS4 Hidden Dragon Legend SaveGame",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/saves_4.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Hidden-Dragon-Legend-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 Hollow Knight SaveGame",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/hollow-knight_2.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Hollow-Knight-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 GTA 5 SaveGame 100%",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 inFAMOUS First Light Platinum SaveGame",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/infamous-first-light-plat-save-others.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-inFAMOUS-First-Light-Platinum-SaveGame.png"
+    },
+    {
+      "jogo": "PS4 GTA 5 SaveGame 100%",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 Jump force SaveGame",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/before-level-70-1.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Jump-force-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 GTA 5 SaveGame 100%",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 Knack SaveGame",
+      "cusa_id": "CUSA00068",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/cusa00068.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-Knack-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 Killzone™ Shadow Fall SaveGame",
+      "cusa_id": "CUSA00190",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/cusa00190.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/Killzone%E2%84%A2-Shadow-Fall-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 Knack Platinum SaveGame",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/knack-platinum-save.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-Knack-Platinum-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 GTA 5 SaveGame 100%",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 LEGO Marvel Superheroes SaveGame",
       "cusa_id": "CUSA00044",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa00044_2.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa00044_2.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-LEGO-Marvel-Superheroes-SaveGame.jpg"
     },
     {
-      "jogo": " Left Alive SaveGame 100%",
+      "jogo": "PS4 Left Alive SaveGame 100%",
       "cusa_id": "CUSA11229",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa11229-16.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa11229-16.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Left-Alive-SaveGame-100.jpg"
     },
     {
-      "jogo": " Life is Strange 2 SaveGame",
+      "jogo": "PS4 Life is Strange 2 SaveGame",
       "cusa_id": "CUSA08124",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/life-is-strange-season-2-platinum-savecusa08124.zip"
+      "link_download": "https://www.savegameworld.com/download/life-is-strange-season-2-platinum-savecusa08124.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS-Life-is-Strange-2-SaveGame.jpg"
     },
     {
-      "jogo": " Leisure Suit Larry: Wet Dreams Don’t Dry SaveGame",
+      "jogo": "PS4 Leisure Suit Larry: Wet Dreams Don’t Dry SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/lsl-wddd-part12.zip"
+      "link_download": "https://www.savegameworld.com/download/lsl-wddd-part12.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Leisure-Suit-Larry-Wet-Dreams-Dont-Dry-SaveGame.jpg"
     },
     {
-      "jogo": " LA Cops SaveGame",
+      "jogo": "PS4 LA Cops SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/la-cops.zip"
+      "link_download": "https://www.savegameworld.com/download/la-cops.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-LA-Cops-SaveGame.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " Marvel Superheroes SaveGame",
+      "jogo": "PS4 Marvel Superheroes SaveGame",
       "cusa_id": "CUSA00044",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa00044_3.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa00044_3.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-Marvel-Superheroes-SaveGame.jpg"
     },
     {
-      "jogo": " Marvels Spider-Man SaveGame",
+      "jogo": "PS4 Marvels Spider-Man SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/us-marvels-spiderman-100.zip"
+      "link_download": "https://www.savegameworld.com/download/us-marvels-spiderman-100.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2018/10/PS4-Marvels-Spider-Man-SaveGame.jpg"
     },
     {
-      "jogo": " Monster Hunter World SaveGame",
+      "jogo": "PS4 Monster Hunter World SaveGame",
       "cusa_id": "CUSA07708",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa07708.7z"
+      "link_download": "https://www.savegameworld.com/download/cusa07708.7z",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Monster-Hunter-World-SaveGame.jpg"
     },
     {
-      "jogo": " Metro Exodus SaveGame",
+      "jogo": "PS4 Metro Exodus SaveGame",
       "cusa_id": "CUSA11407",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa11407.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa11407.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Metro-Exodus-SaveGame.jpg"
     },
     {
-      "jogo": " Middle Earth Shadow Of Mordor SaveGame",
+      "jogo": "PS4 Middle Earth Shadow Of Mordor SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/middle-earth-shadow-of-mordor-platinum-save.zip"
+      "link_download": "https://www.savegameworld.com/download/middle-earth-shadow-of-mordor-platinum-save.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Middle-Earth-Shadow-Of-Mordor-SaveGame.png"
     },
     {
-      "jogo": " Monster Energy Supercross SaveGame",
+      "jogo": "PS4 Monster Energy Supercross SaveGame",
       "cusa_id": "CUSA09837",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa09837.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa09837.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Monster-Energy-Supercross-SaveGame.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " NFS Rivals Platinum Save",
+      "jogo": "PS4 NIOH STARTER SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/nfs-rivals.rar"
+      "link_download": "https://www.savegameworld.com/download/kyoshiro-nioh-starter-saves.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2017/09/PS4-NIOH-STARTER-SaveGame.jpg"
     },
     {
-      "jogo": " Need for Speed Rivals PS4 Gamesave",
-      "cusa_id": "CUSA00168",
-      "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa00168.rar"
-    },
-    {
-      "jogo": " Need for Speed Rivals Save Game set",
-      "cusa_id": "N/A",
-      "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/need-for-speed-rivals-save-set.rar"
-    },
-    {
-      "jogo": " NIOH STARTER SaveGame",
-      "cusa_id": "N/A",
-      "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/kyoshiro-nioh-starter-saves.rar"
-    },
-    {
-      "jogo": " Need for Speed: Heat SaveGame",
+      "jogo": "PS4 Need for Speed: Heat SaveGame",
       "cusa_id": "CUSA15090",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa15090.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa15090.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/11/PS4-Need-for-Speed-Heat-SaveGame.jpg"
     },
     {
-      "jogo": " Nioh SaveGame",
+      "jogo": "PS4 Nioh SaveGame",
       "cusa_id": "CUSA07123",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/nioh-complete-edition-cusa07123.zip"
+      "link_download": "https://www.savegameworld.com/download/nioh-complete-edition-cusa07123.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Nioh-SaveGame.jpg"
     },
     {
-      "jogo": " Naruto Ultimate Ninja Storm SaveGame",
+      "jogo": "PS4 Naruto Ultimate Ninja Storm SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/naruto-ultimate-ninja-storm-platinum-saves.zip"
+      "link_download": "https://www.savegameworld.com/download/naruto-ultimate-ninja-storm-platinum-saves.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Naruto-Ultimate-Ninja-Storm-SaveGame.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " Oddworld: New ‘n’ Tasty Platinum Save Game",
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/oddworld-new-n-tasty-platinum-save-eu-ps4-by-the_gazra-ngu.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 PixelJunk Shooter Ultimate Platinum SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/pixeljunk-shooter-ultimate-platinum-save_3.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-PixelJunk-Shooter-Ultimate-Platinum-SaveGame.jpg"
     },
     {
-      "jogo": " Pixel Junk the ultimate shooter Savegame",
-      "cusa_id": "N/A",
-      "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/pixeljunk-shooter-ultimate-platinum-save.rar"
-    },
-    {
-      "jogo": " PixelJunk Shooter Ultimate Saves",
-      "cusa_id": "N/A",
-      "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/pixeljunk-shooter-ultimate-platinum-save_2.rar"
-    },
-    {
-      "jogo": " PixelJunk Shooter Ultimate Platinum SaveGame",
-      "cusa_id": "N/A",
-      "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/pixeljunk-shooter-ultimate-platinum-save_3.rar"
-    },
-    {
-      "jogo": " Prey SaveGame",
+      "jogo": "PS4 Prey SaveGame",
       "cusa_id": "CUSA06559",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/prey-eu-cusa06559.zip"
+      "link_download": "https://www.savegameworld.com/download/prey-eu-cusa06559.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Prey-SaveGame.jpg"
     },
     {
-      "jogo": " Peasant Knight SaveGame",
+      "jogo": "PS4 Peasant Knight SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/peasant-knight-eu.zip"
+      "link_download": "https://www.savegameworld.com/download/peasant-knight-eu.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Peasant-Knight-SaveGame.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 Resogun SaveGame",
+      "cusa_id": "CUSA00038",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/cusa00038.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-Resogun-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 Rocket League SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/rocket-league-100-dlc.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-Rocket-League-SaveGame.jpg"
     },
     {
-      "jogo": " Tomb Raider Definitive Edition Platinum SaveGame",
+      "jogo": "PS4 RESOGUN Platinum SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/savegame00.zip"
+      "link_download": "https://www.savegameworld.com/download/ps4-resogun-plat-save-by-falsetto.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-RESOGUN-Platinum-SaveGame.jpg"
     },
     {
-      "jogo": " Torment Tides Of Numernera SaveGame",
+      "jogo": "PS4 Red Dead Redemption 2 SaveGame 71%",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/save-red-dead-redemption-2-by-kamikazedu1723.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/01/PS4-Red-Dead-Redemption-2-SaveGame-71.jpg"
+    },
+    {
+      "jogo": "PS4 Rise of the Tomb Raider SaveGame",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/18ultimate-survivor.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/11/PS4-Rise-of-the-Tomb-Raider-SaveGame.png"
+    },
+    {
+      "jogo": "PS4 Resident Evil 2 Remake SaveGame",
+      "cusa_id": "CUSA09193",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/cusa09193.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Resident-Evil-2-Remake-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 Red Dead Revolver SaveGame 100%",
+      "cusa_id": "CUSA03517",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/ps4-red-dead-revolver-100-save-game-cusa03517.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Red-Dead-Revolver-SaveGame-100.jpg"
+    },
+    {
+      "jogo": "PS4 Ratchet and Clank (2016) SaveGame 100%",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/Ratchet_and_Clank_2016_100.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2021/10/PC-Ratchet-and-Clank-2016-SaveGame-100.jpg"
+    },
+    {
+      "jogo": "PS4 GTA 5 SaveGame 100%",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 GTA 5 SaveGame 100%",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 Shadow Of The Tomb Raider Surprise Trophy SaveGame",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/surprise-1.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2018/10/PS4-Shadow-Of-The-Tomb-Raider-Surprise-Trophy-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 Star Wars Jedi: Fallen Order SaveGame 100%",
+      "cusa_id": "CUSA12539",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/save-ordem-jedi-de-star-wars-jedi-trofu-de-disco-de-dados-cusa12539.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/11/PS4-Star-Wars-Jedi-Fallen-Order-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 Saints Row Gat Out Of Hell SaveGame",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/saints-row-gat-out-of-hell-platinum-save.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Saints-Row-Gat-Out-Of-Hell-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 School Girl Zombie Hunter SaveGame",
+      "cusa_id": "CUSA09762",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/cusa09762-1.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-School-Girl-Zombie-Hunter-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 Saint Seiya Soldiers’ Soul SaveGame",
+      "cusa_id": "CUSA02509",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/cusa02509.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Saint-Seiya-Soldiers-Soul-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 Sniper Elite 4 SaveGame",
+      "cusa_id": "CUSA04099",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/cusa04099.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Sniper-Elite-4-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 Sekiro: Shadows Die Twice SaveGame",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/max-upgrades-n-few-others.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Sekiro-Shadows-Die-Twice-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 Star Ocean First Departure SaveGame",
+      "cusa_id": "CUSA16913",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/cusa16913.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Star-Ocean-First-Departure-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 Shenmue 3 SaveGame",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/shenmue-iii-1st.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Shenmue-3-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 GTA 5 SaveGame 100%",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
+    },
+    {
+      "jogo": "PS4 Tomb Raider Definitive Edition Platinum SaveGame",
+      "cusa_id": "N/A",
+      "tamanho": "N/A",
+      "link_download": "https://www.savegameworld.com/download/savegame00.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-Tomb-Raider-Definitive-Edition-Platinum-SaveGame.png"
+    },
+    {
+      "jogo": "PS4 Torment Tides Of Numernera SaveGame",
       "cusa_id": "CUSA06860",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa06860.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa06860.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Torment-Tides-Of-Numernera-SaveGame.jpg"
     },
     {
-      "jogo": " The Evil Within 2 SaveGame",
+      "jogo": "PS4 The Evil Within 2 SaveGame",
       "cusa_id": "CUSA06164",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa06164.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa06164.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-The-Evil-Within-2-SaveGame.png"
     },
     {
-      "jogo": " The Witness SaveGame",
+      "jogo": "PS4 The Witness SaveGame",
       "cusa_id": "CUSA04263",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa04263.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa04263.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-The-Witness-SaveGame.png"
     },
     {
-      "jogo": " The Elder Scrolls V: Skyrim SaveGame",
+      "jogo": "PS4 The Elder Scrolls V: Skyrim SaveGame",
       "cusa_id": "CUSA05333",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa05333.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa05333.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-The-Elder-Scrolls-V-Skyrim-SaveGame.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " Uncharted 2: Among Thieves SaveGame",
+      "jogo": "PS4 Uncharted 2: Among Thieves SaveGame",
       "cusa_id": "CUSA02344",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa02344-charted-brutal-1.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa02344-charted-brutal-1.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/11/PS4-Uncharted-2-Among-Thieves-SaveGame.png"
     },
     {
-      "jogo": " Unravel SaveGame",
+      "jogo": "PS4 Unravel SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/not-so-fragile-after-all.zip"
+      "link_download": "https://www.savegameworld.com/download/not-so-fragile-after-all.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Unravel-SaveGame.png"
     },
     {
-      "jogo": " Uncharted 4 SaveGame 100%",
+      "jogo": "PS4 Uncharted 4 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4_2.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4_2.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2020/01/PS4-Uncharted-4-SaveGame-100.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " Valkyria Chronicles 4 SaveGame",
+      "jogo": "PS4 Valkyria Chronicles 4 SaveGame",
       "cusa_id": "CUSA10633",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa10633.zip"
+      "link_download": "https://www.savegameworld.com/download/cusa10633.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2018/10/PS4-Valkyria-Chronicles-4-SaveGame.png"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " Watch dogs game save",
-      "cusa_id": "N/A",
-      "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/blus31176watchdogsmain.zip"
-    },
-    {
-      "jogo": " Warframe SaveGame",
+      "jogo": "PS4 Warframe SaveGame",
       "cusa_id": "CUSA00080",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/cusa00080.rar"
+      "link_download": "https://www.savegameworld.com/download/cusa00080.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-Warframe-SaveGame.jpg"
     },
     {
-      "jogo": " Watch Dogs SaveGame",
+      "jogo": "PS4 Watch Dogs SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/watch-dogs-platinum-save.zip"
+      "link_download": "https://www.savegameworld.com/download/watch-dogs-platinum-save.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Watch-Dogs-SaveGame.jpg"
     },
     {
-      "jogo": " Watch Dogs 2 SaveGame",
+      "jogo": "PS4 Watch Dogs 2 SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/watch-dogs-platinum-save_2.zip"
+      "link_download": "https://www.savegameworld.com/download/watch-dogs-platinum-save_2.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Watch-Dogs-2-SaveGame.png"
     },
     {
-      "jogo": " Wolfenstein The New Order SaveGame",
+      "jogo": "PS4 Wolfenstein The New Order SaveGame",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/wolfenstein-the-new-order-platinum-save.zip"
+      "link_download": "https://www.savegameworld.com/download/wolfenstein-the-new-order-platinum-save.zip",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2019/12/PS4-Wolfenstein-The-New-Order-SaveGame.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " Yakuza 6 SaveGame",
+      "jogo": "PS4 Yakuza 6 SaveGame",
       "cusa_id": "CUSA09660",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/yakuza-6-cusa09660.rar"
+      "link_download": "https://www.savegameworld.com/download/yakuza-6-cusa09660.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2018/10/PS4-Yakuza-6-SaveGame.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     },
     {
-      "jogo": " GTA 5 SaveGame 100%",
+      "jogo": "PS4 GTA 5 SaveGame 100%",
       "cusa_id": "N/A",
       "tamanho": "N/A",
-      "link_download": "https://www.savegameworld.com/download/ps4.rar"
+      "link_download": "https://www.savegameworld.com/download/ps4.rar",
+      "imagem": "https://www.savegameworld.com/wp-content/uploads/2016/10/PS4-GTA-5-SaveGame.jpg"
     }
   ]
 }
